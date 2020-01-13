@@ -50,8 +50,8 @@ database structure, and to write its functions and procedures
 
 ## Authors
 
-* **Allen Shen** - *Scraping data, coding, and stuff*
-* **Aaditya Watwe** - *Database design, coding, and stuff*
+* **Allen Shen** - *Scraping data, coding*
+* **Aaditya Watwe** - *Database design, coding*
 
 ## Acknowledgments
 
